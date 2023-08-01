@@ -90,16 +90,15 @@ $oke1 = mysqli_fetch_array($oke);
 						</div>
 					</div>
 
-					<div class="container-login100-form-btn">
+					<!-- <div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
 							<div class="login100-form-bgbtn"></div>
 							<button value="daftar_elearning" type="submit" class="login100-form-btn" onclick="window.location.href='Home/Registrasion.php'">
 								Daftar Akun Siswa?
 							</button>
 						</div>
-					</div>
+					</div> -->
 
-          <br>
 
           <div class="container-login100-form-btn">
 						<div class="wrap-login100-form-btn">
